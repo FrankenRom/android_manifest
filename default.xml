@@ -10,7 +10,7 @@
            fetch="https://github.com" />
 
   <remote  name="liquid"
-           fetch="https://github.com/LiquidRemix"
+           fetch="https://github.com/FrankenRom"
            revision="oc-mr1" />
 
   <remote  name="lineage"
