@@ -1,4 +1,4 @@
-LiquidRemix
+FrankenRom
 ==============
 
 Getting Started
@@ -13,4 +13,10 @@ To initialize your local repository using the LiquidRemix trees, use a command l
 
 Then to sync up:
 
-    repo sync
+    repo sync -j4
+    
+. build/envsetup.sh
+breakfast device name
+time mka liquid
+
+Profit!
