@@ -7,7 +7,7 @@ Getting Started
 To get started with Android/FrankenRom, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LiquidRemix trees, use a command like this:
+To initialize your local repository using the FrankenRom trees, use a command like this:
 
     repo init -u git://github.com/FrankenRom/android_manifest.git -b oc-mr1
 
